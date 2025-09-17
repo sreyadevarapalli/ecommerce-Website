@@ -1,0 +1,22 @@
+[
+  {"id":"p1","category":"Pickles","name":"Avakaya","price":{"1kg":350,"500g":175,"250g":90},"image":"images/Avakaya.png"},
+  {"id":"p2","category":"Pickles","name":"Sweet Avakaya","price":{"1kg":350,"500g":175,"250g":90},"image":"images/Sweet Avakaya.png"},
+  {"id":"p3","category":"Pickles","name":"Magaya","price":{"1kg":350,"500g":175,"250g":90},"image":"images/Magaya.png"},
+  {"id":"p4","category":"Pickles","name":"Sweet Magaya","price":{"1kg":350,"500g":175,"250g":90},"image":"images/Sweet Magaya.png"},
+  {"id":"p5","category":"Pickles","name":"Tomato","price":{"1kg":350,"500g":175,"250g":90},"image":"images/Tomato.png"},
+  {"id":"p6","category":"Pickles","name":"Lemon","price":{"1kg":350,"500g":175,"250g":90},"image":"images/Lemon Pickle.png"},
+  {"id":"p7","category":"Pickles","name":"Ginger","price":{"1kg":350,"500g":175,"250g":90},"image":"images/Ginger.png"},
+  {"id":"p8","category":"Pickles","name":"Gongura","price":{"1kg":400,"500g":200,"250g":100},"image":"images/Gongura Pickle.png"},
+  {"id":"p9","category":"Podis","name":"Idli Karam Podi","price":{"1kg":400,"500g":200,"250g":100},"image":"images/Idli Karam Podi.png"},
+  {"id":"p10","category":"Podis","name":"Karivepaku Podi","price":{"1kg":400,"500g":200,"250g":100},"image":"images/Karivepaku Podi.png"},
+  {"id":"p11","category":"Podis","name":"Munagaku Podi","price":{"1kg":400,"500g":200,"250g":100},"image":"images/Munagaaku Podi.png"},
+  {"id":"p12","category":"Sweets","name":"Thokkudu Laddu","price":{"1kg":350},"image":"images/Thokkudu Laddu.png"},
+  {"id":"p13","category":"Sweets","name":"Boondi Laddu","price":{"1kg":300},"image":"images/Boondi Laddu.png"},
+  {"id":"p14","category":"Sweets","name":"Palli Chikki","price":{"1kg":400},"image":"images/Palli Chikki.png"},
+  {"id":"p15","category":"Sweets","name":"Kajjikayalu","price":{"1kg":350},"image":"images/Kajjikayalu.png"},
+  {"id":"p16","category":"Sweets","name":"Baked Biscuits","price":{"1kg":500},"image":"images/Baked Biscuits.png"},
+  {"id":"p17","category":"Snacks","name":"Janthikalu","price":{"1kg":350},"image":"images/Janthikalu.png"},
+  {"id":"p18","category":"Snacks","name":"Karampoosa","price":{"1kg":350},"image":"images/Karampoosa.png"},
+  {"id":"p19","category":"Snacks","name":"Vampoosa","price":{"1kg":350},"image":"images/Vampoosa.png"},
+  {"id":"p20","category":"Snacks","name":"Pappu Chekkalu","price":{"1kg":350},"image":"images/Pappu Chekkalu.png"}
+]
